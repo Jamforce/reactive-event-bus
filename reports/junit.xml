@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" errors="0" time="5.111">
+  <testsuite name="Rx Event Bus Class" errors="0" failures="0" skipped="0" timestamp="2023-07-20T07:05:58" time="2.626" tests="5">
+    <testcase classname="Rx Event Bus Class should create an instance" name="Rx Event Bus Class should create an instance" time="0.001">
+    </testcase>
+    <testcase classname="Rx Event Bus Class basic emit subscribe" name="Rx Event Bus Class basic emit subscribe" time="0.004">
+    </testcase>
+    <testcase classname="Rx Event Bus Class subscribe with once option" name="Rx Event Bus Class subscribe with once option" time="0.001">
+    </testcase>
+    <testcase classname="Rx Event Bus Class subscribe with state option" name="Rx Event Bus Class subscribe with state option" time="0.001">
+    </testcase>
+    <testcase classname="Rx Event Bus Class get message latest value" name="Rx Event Bus Class get message latest value" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="Subscribe decorator" errors="0" failures="0" skipped="0" timestamp="2023-07-20T07:05:58" time="3.356" tests="2">
+    <testcase classname="Subscribe decorator subscription in connectedCallback" name="Subscribe decorator subscription in connectedCallback" time="0.004">
+    </testcase>
+    <testcase classname="Subscribe decorator unsubscription in disconnectedCallback" name="Subscribe decorator unsubscription in disconnectedCallback" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
